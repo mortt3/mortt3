@@ -38,11 +38,11 @@ Mejorar mis proyectos personales en **Java, Python, Android Studio y Unity** —
 
 ### 📫 Conecta conmigo:
 <p align="left">
-  <a href="https://instagram.com/mortt3_" target="blank">
+  <a href="https://instagram.com/mortt3_" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mortt3_" height="30" width="40" />
   </a>
-  <a href="https://discord.gg/mortt3" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mortt3" height="30" width="40" />
+  <a href="https://discord.gg/trhbyJ4C3Q" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
   </a>
 </p>
 
@@ -84,10 +84,6 @@ Mejorar mis proyectos personales en **Java, Python, Android Studio y Unity** —
 ### 📊 Estadísticas de GitHub:
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mortt3&show_icons=true&locale=es&layout=compact" alt="mortt3" />
-</p>
-
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mortt3&show_icons=true&locale=es" alt="mortt3" />
 </p>
 
 <p>
