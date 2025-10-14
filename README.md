@@ -90,3 +90,18 @@ Mejorar mis proyectos personales en **Java, Python, Android Studio y Unity** —
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mortt3&theme=default" alt="mortt3" />
 </p>
 
+---
+### 🚀 Repositories
+
+<p align="center">
+  <a href="https://github.com/mortt3?tab=repositories">
+    <img src="https://i.imgur.com/A6bWGFl.gif" width="70" alt="arrow">
+  </a><br>
+  <b>Explore my work →</b>
+</p>
+
+<hr style="border: 1px solid #ff00ff; box-shadow: 0 0 10px #ff00ff;">
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mortt3&style=for-the-badge&color=ff79c6" alt="Profile Views" />
+</p>
