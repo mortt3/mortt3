@@ -81,7 +81,7 @@ Mejorar mis proyectos personales en **Java, Python, Android Studio y Unity** —
 
 ---
 
-### 📊 Estadísticas de GitHub:
+### GitHub:
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mortt3&show_icons=true&locale=es&layout=compact" alt="mortt3" />
 </p>
@@ -91,7 +91,7 @@ Mejorar mis proyectos personales en **Java, Python, Android Studio y Unity** —
 </p>
 
 ---
-### 🚀 Repositories
+### Repositories
 
 <p align="center">
   <a href="https://github.com/mortt3?tab=repositories">
