@@ -87,7 +87,7 @@ Mejorar mis proyectos personales en **Java, Python, Android Studio y Unity** —
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mortt3&theme=default" alt="mortt3" />
+  <img src="https://streak-stats.demolab.com?user=mortt3&theme=default" />
 </p>
 
 ---
