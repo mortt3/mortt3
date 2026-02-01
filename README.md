@@ -83,10 +83,9 @@ Mejorar mis proyectos personales en **Java, Python, Android Studio y Unity** —
 
 ### GitHub:
 <p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mortt3&theme=default" />
-</p>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mortt3&theme=default" />
 
-<p>
+
   <img src="https://streak-stats.demolab.com?user=mortt3&theme=default" />
 </p>
 
