@@ -4,7 +4,7 @@
 
 <h1 align="center">👋 Hola, soy Jorge</h1>
 <h3 align="center">
-  Estudiante de DAM | Always learning, always evolving — like every good arc 🌙
+  Estudiante de DAM & Software Developer | Always learning, always evolving — like every good arc 🌙
 </h3>
 
 <br>
@@ -13,26 +13,38 @@
 
 ---
 
-### 🌱 Actualmente aprendiendo  
-**Java, Python, C#, Unity, Android Studio y bases de datos.**  
-Enfocado en desarrollo multiplataforma, diseño de interfaces funcionales y limpias, y programación de aplicaciones y juegos.
+### 💼 Perfil y Enfoque Profesional
+- 💻 **Desarrollo de Software** — Experiencia práctica en el desarrollo de aplicaciones en entornos corporativos, optimización de procesos y lógica de negocio.
+- 📊 **Modelado de Datos** — Enfoque en el diseño de arquitecturas de bases de datos sólidas y sistemas de reportes eficientes.
+- 🎓 Especializándome en **Ecosistema Oracle & Desarrollo Low-Code** (creación de reportes interactivos, formularios complejos, seguridad y gestión de datos).
 
 ---
 
 ### 🚀 Actualmente trabajando en  
-- 📱 **Nest** — Aplicación de organización y consejos para la vida independiente.  
-- 🎭 **Dilema** — Una aplicación de juegos sociales.  
-- 💻 Otros proyectos personales en **Java, Python y Unity**.
+- 🤾 **TACTIQ** — Proyecto de fin de grado. Aplicación móvil de análisis táctico para balonmano impulsada por IA y visión computacional. Arquitectura desde la validación local hasta el despliegue en la nube.
+  - 🛠️ *Tech Stack:* React Native, Python, YOLOv8, Gemini, PostgreSQL, AWS.
+- 🎭 **Dilema** — Aplicación de juegos sociales basada en dinámicas de grupo y toma de decisiones.  
+  - 🛠️ *Tech Stack:* Android Studio, Java / Kotlin.
+- 📱 **Nest** — Aplicación de organización y consejos para la vida independiente *(en fase de diseño y planteamiento)*.
+- 💻 **Otros proyectos** — Experimentos personales y minijuegos desarrollados en **Java, Python y Unity**.
 
 ---
 
-### 🌐 Proyectos completados  
-- 📷 **Web del Fotógrafo** — Página web minimalista y funcional para un portafolio fotográfico.
+### 🌱 Actualmente aprendiendo
+**Java, Python, C#, Unity, Android Studio y bases de datos.** Enfocado en desarrollo multiplataforma, diseño de interfaces funcionales y limpias, y programación de aplicaciones y juegos.
 
 ---
 
-### 🤝 Busco ayuda con  
+### 🤝 Busco ayuda con
 Mejorar mis proyectos personales en **Java, Python, Android Studio y Unity** — aprendiendo de cada nueva línea de código 🍃
+
+---
+
+### 🌱 Stack y Tecnologías Principales
+- **Cloud & Infraestructura:** AWS.
+- **Backend & Bases de Datos:** Go (Golang), Oracle APEX, SQL, PL/SQL, PostgreSQL, BI Publisher, .NET.
+- **Frontend & Mobile:** React Native, React, Tailwind CSS, Android Studio.
+- **IA & Core:** Modelos locales (Ollama: Qwen, Gemma), YOLOv8, Gemini, Java, Python, C#.
 
 ---
 
@@ -50,30 +62,16 @@ Mejorar mis proyectos personales en **Java, Python, Android Studio y Unity** —
 
 ### 🧰 Lenguajes y herramientas:
 <p align="center">
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/></a><!--
-  --><a href="https://kotlinlang.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40" height="40" alt="Kotlin"/></a><!--
-  --><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/></a><!--
-  --><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/></a><!--
-  --><a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="40" height="40" alt="Android"/></a><!--
-  --><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React"/></a><!--
-  --><a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5"/></a><!--
-  --><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3"/></a><!--
-  --><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40" alt="MySQL"/></a><!--
-  --><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/></a><!--
-  --><a href="https://unity.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="40" height="40" alt="Unity"/></a>
+  <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="Java"/></a><a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="Python"/></a><a href="https://go.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" width="40" height="40" alt="Go"/></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" alt="C#"/></a><a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" width="40" height="40" alt=".NET"/></a><a href="https://kotlinlang.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" width="40" height="40" alt="Kotlin"/></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40" alt="React"/></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" alt="Tailwind CSS"/></a><a href="https://developer.android.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original.svg" width="40" height="40" alt="Android"/></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40" alt="AWS"/></a><a href="https://www.oracle.com/database/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40" alt="Oracle"/></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="Git"/></a>
 </p>
 
-
-
-### GitHub:
+### GitHub Stats:
 <p>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mortt3&theme=default" />
-
   <img src="https://streak-stats.demolab.com?user=mortt3&theme=default" />
 </p>
 
 ### Repositories
-
 <p align="center">
   <a href="https://github.com/mortt3?tab=repositories">
     <img src="https://i.imgur.com/A6bWGFl.gif" width="70" alt="arrow">
